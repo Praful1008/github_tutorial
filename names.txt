@@ -1,1 +1,13 @@
 Pratik
+
+Tarun
+
+Rana
+
+
+// git status
+
+// git add names.txt
+
+
+// git commit -m "names.txt" file added
